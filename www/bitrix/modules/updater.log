@@ -1,0 +1,11 @@
+2018-05-15 13:59:58 -  - exec CUpdateClient::GetUpdatesList
+2018-05-15 13:59:58 -  - exec CUpdateClient::CollectRequestData
+2018-05-15 13:59:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.5.12&VERSION=17.5.13&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.91&CHHB=192.168.0.91%3A80&CSAB=127.0.0.1&SUID=84c970b13dc6b912c9a9b01587083900&CANGZIP=Y&CLIENT_PHPVER=7.0.26&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.5.13&bitm_b24connector=17.5.0&bitm_fileman=17.5.10&bitm_compression=16.0.0&bitm_socialservices=17.5.4&bitm_perfmon=17.0.1&bitm_seo=17.5.3&bitm_highloadblock=17.5.0&bitm_clouds=17.0.2&bitm_iblock=17.5.5&bitm_search=17.5.0&bitm_translate=16.0.0&bitm_ui=17.5.5&bitm_bitrixcloud=17.5.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2018-05-15 13:59:58 -  - exec CUpdateClient::GetHTTPPage
+2018-05-15 13:59:58 -  - TIME GetUpdatesList(request) 0.227 sec
+2018-05-15 13:59:58 -  - exec CUpdateClient::ParseServerData
+2018-05-15 13:59:58 -  - exec CUpdateClient::executeCounters
+2018-05-15 13:59:58 -  - exec CUpdateClient::CollectRequestData
+2018-05-15 13:59:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.5.12&VERSION=17.5.13&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.91&CHHB=192.168.0.91%3A80&CSAB=127.0.0.1&SUID=84c970b13dc6b912c9a9b01587083900&CANGZIP=Y&CLIENT_PHPVER=7.0.26&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.5.13&bitm_b24connector=17.5.0&bitm_fileman=17.5.10&bitm_compression=16.0.0&bitm_socialservices=17.5.4&bitm_perfmon=17.0.1&bitm_seo=17.5.3&bitm_highloadblock=17.5.0&bitm_clouds=17.0.2&bitm_iblock=17.5.5&bitm_search=17.5.0&bitm_translate=16.0.0&bitm_ui=17.5.5&bitm_bitrixcloud=17.5.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&query_type=counter&cntr_result[179]=0
+2018-05-15 13:59:58 -  - exec CUpdateClient::GetHTTPPage
+2018-05-15 13:59:58 -  - TIME executeCounters 0.195 sec

@@ -1,0 +1,6 @@
+<?
+$sSectionName = "freeshop";
+$arDirProperties = Array(
+
+);
+?>
